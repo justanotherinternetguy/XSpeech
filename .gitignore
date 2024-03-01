@@ -1,5 +1,5 @@
-./model_block/
-./model_interjection/
-./model_prolongation/
-./model_soundrep/
-./model_wordrep/
+./model/model_block/
+./model/model_interjection/
+./model/model_prolongation/
+./model/model_soundrep/
+./model/model_wordrep/
