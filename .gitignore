@@ -3,3 +3,9 @@
 ./model/model_prolongation/
 ./model/model_soundrep/
 ./model/model_wordrep/
+
+./model/model_block/*
+./model/model_interjection/*
+./model/model_prolongation/*
+./model/model_soundrep/*
+./model/model_wordrep/*
