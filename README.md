@@ -4,6 +4,6 @@ This is a project I made for my state-wide science research fair. I apologize fo
 
 Final weight files/model saves are too large for Github.
 
-Won:
+This project won the following awards at my state-wide science fair:
 - Second Place for Bioinformatics and Computational Biology
 - Association for Computing Machinery
