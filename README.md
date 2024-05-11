@@ -1,6 +1,6 @@
 # XSpeech: A Novel Deep Learning Approach to Classifying Stutters
 
-This is a project I made for my state-wide science research fair. I apologize for the messy code - It is not intended to be read by another person other than me.
+This is a project I made for my state-wide science research fair. I apologize for the messy code - I wrote it without any consideration for long-term readibility.
 
 Final weight files/model saves are too large for Github.
 
