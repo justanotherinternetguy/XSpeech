@@ -8,3 +8,4 @@ model/model_interjection_AUGMENT/
 model/model_prolongation_AUGMENT/
 model/model_soundrep_AUGMENT/
 model/model_wordrep_AUGMENT/
+mode/*.keras

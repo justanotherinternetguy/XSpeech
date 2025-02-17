@@ -1,0 +1,2 @@
+file '/home/alien/Git/DATA/ml-stuttering-events-dataset/CLIP_DIR/HeStutters/1/HeStutters_1_57.wav'
+file '/home/alien/Git/DATA/ml-stuttering-events-dataset/CLIP_DIR/HeStutters/1/HeStutters_1_58.wav'

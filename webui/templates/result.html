@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processing Result</title>
+</head>
+<body>
+    <h1>Processing Result</h1>
+    <h2>Extracted Text:</h2>
+    <p>{{ text }}</p>
+    <h2>Generated Audio:</h2>
+    <audio controls>
+        <source src="{{ url_for('uploaded_file', filename='en-us.wav') }}" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    <br>
+    <a href="/">Upload another file</a>
+</body>
+</html>
